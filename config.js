@@ -14,18 +14,18 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QUEENNILU;;;I70xAabD#OoXv8cgDLJXAUd451vjoLK8lrm1sagnyZQF_Jha_3R8' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://vssgaming_user:5oP7ngQDzU9GzkHPOFbC2dqzrjxnrr2x@dpg-cmt08cun7f5s73airno0-a.frankfurt-postgres.render.com/vssgaming'
 
  
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94741442265'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'vss gaming X'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -41,7 +41,7 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = 'vss bot'
 
 global.FOOTER = 'Queen Nilu 2023'
 
@@ -57,7 +57,7 @@ global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
 
 global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
 
-global.ALIVE_MESSAGE = '' // Set Alive Message
+global.ALIVE_MESSAGE = 'IALIVEBOSS' // Set Alive Message
 
 global.MAX_SIZE = '500' // Bot Uloading Max size 
 
